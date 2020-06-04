@@ -1,0 +1,4 @@
+D:\Projects\C#\FreedomPayAPI\.vs\FreedomPayAPI\lut\0\i\NUnitTest\Debug\netcoreapp2.1\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Projects\C#\FreedomPayAPI\.vs\FreedomPayAPI\lut\0\i\NUnitTest\Debug\netcoreapp2.1\NUnitTest.AssemblyInfoInputs.cache
+D:\Projects\C#\FreedomPayAPI\.vs\FreedomPayAPI\lut\0\i\NUnitTest\Debug\netcoreapp2.1\NUnitTest.AssemblyInfo.cs
+D:\Projects\C#\FreedomPayAPI\.vs\FreedomPayAPI\lut\0\i\NUnitTest\Debug\netcoreapp2.1\NUnitTest.csprojAssemblyReference.cache
